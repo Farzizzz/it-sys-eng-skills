@@ -39,12 +39,12 @@ Maintained by Farz Owasil.
 
 ## Install
 
-### From GitHub (once pushed)
+### From GitHub
 
-Replace `YOUR_GITHUB_USERNAME` in `.claude-plugin/marketplace.json` with your GitHub handle, push the repo, then in Claude Code:
+In Claude Code:
 
 ```
-/plugin marketplace add YOUR_GITHUB_USERNAME/it-sys-eng-skills
+/plugin marketplace add Farzizzz/it-sys-eng-skills
 /plugin install it-sys-eng-skills
 ```
 
