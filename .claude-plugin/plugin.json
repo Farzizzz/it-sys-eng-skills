@@ -1,0 +1,33 @@
+{
+  "name": "it-sys-eng-skills",
+  "version": "1.0.0",
+  "description": "IT & Systems Engineering skill pack for Claude Code: 19 skills across infrastructure, cloud, DevOps/SRE, identity, endpoint management, Google Workspace, databases, observability, and code/security review. 15 adapted from jeffallan/claude-skills (MIT), plus 4 original IT administration skills.",
+  "author": {
+    "name": "Farz Owasil"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "claude-code",
+    "it-operations",
+    "systems-engineering",
+    "techops",
+    "terraform",
+    "kubernetes",
+    "devops",
+    "sre",
+    "cloud",
+    "aws",
+    "okta",
+    "intune",
+    "kandji",
+    "google-workspace",
+    "gam",
+    "atlassian",
+    "postgres",
+    "sql",
+    "monitoring",
+    "security"
+  ],
+  "skills": "./skills/"
+}

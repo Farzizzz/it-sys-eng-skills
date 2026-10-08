@@ -1,0 +1,57 @@
+{
+  "name": "it-sys-eng-skills",
+  "owner": {
+    "name": "Farz Owasil"
+  },
+  "metadata": {
+    "description": "IT & Systems Engineering skill pack for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "it-sys-eng-skills",
+      "source": {
+        "source": "github",
+        "repo": "YOUR_GITHUB_USERNAME/it-sys-eng-skills",
+        "ref": "main"
+      },
+      "description": "19 IT & Systems Engineering skills: infrastructure (Terraform, Kubernetes), cloud (AWS/Azure/GCP), DevOps and SRE, identity (Okta), endpoint management (Intune for Windows, Kandji for Mac), Google Workspace (GAM), databases (PostgreSQL, SQL), observability, and code/security review.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Farz Owasil"
+      },
+      "license": "MIT",
+      "keywords": [
+        "claude-skill",
+        "claude-code",
+        "it-operations",
+        "systems-engineering",
+        "techops",
+        "terraform",
+        "kubernetes",
+        "devops",
+        "sre",
+        "cloud",
+        "okta",
+        "intune",
+        "kandji",
+        "google-workspace",
+        "atlassian",
+        "postgres",
+        "monitoring",
+        "security"
+      ],
+      "category": "it-operations",
+      "tags": [
+        "it",
+        "systems-engineering",
+        "devops",
+        "identity",
+        "endpoint-management",
+        "cloud",
+        "sre"
+      ],
+      "skills": "./skills/"
+    }
+  ]
+}
